@@ -1,4 +1,4 @@
-#Twitter Vending Machine
+#Twitter Vending Machine Python File to pul twitter tweets
 from temboo.Library.Twitter.DirectMessages import SendDirectMessage
 from temboo.core.session import TembooSession
 from temboo.Library.Twitter.Timelines import LatestMention
